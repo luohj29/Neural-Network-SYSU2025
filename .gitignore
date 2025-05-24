@@ -114,7 +114,8 @@ log/
 fold/
 data/
 .csv
-
+v*/
+__pycache__
 # Spyder project settings
 .spyderproject
 .spyproject
